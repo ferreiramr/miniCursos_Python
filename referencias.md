@@ -9,8 +9,10 @@
 
 ## LIVROS
 
- - [Pense em Python - Versão interativa](https://panda.ime.usp.br/pensepy/static/pensepy/index.html)
- - [Pense em Python](https://penseallen.github.io/PensePython2e/)
+ - [Pense em Python - Versão interativa online e gratuita](https://panda.ime.usp.br/pensepy/static/pensepy/index.html)
+ - [Pense em Python - Versão online e gratuita](https://penseallen.github.io/PensePython2e/)
+ - [Aprenda Computação com Python - Online e gratuito](https://mange.ifrn.edu.br/python/aprenda-com-py3/index.html)
+ - [Aprenda programação e algoritmos em Python - Não é bem um livro mais o conteúdo é muit bom](https://algoritmosempython.com.br/)
  - [Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy e IPython](https://www.amazon.com.br/Python-Para-An%C3%A1lise-Dados-Tratamento/dp/8575226479)
  - [Data Science do Zero: Primeiras Regras com o Python](https://www.amazon.com.br/Data-Science-zero-Joel-Grus/dp/857608998X/ref=pd_bxgy_img_2/146-1000802-8244056?_encoding=UTF8&pd_rd_i=857608998X&pd_rd_r=40044020-5d02-4cb2-b455-67cc9ab98be9&pd_rd_w=bd7FX&pd_rd_wg=DQWcf&pf_rd_p=400138fd-99e3-44de-aed2-5a7aff7ca010&pf_rd_r=BMVMZTD7990F5WAGKKGW&psc=1&refRID=BMVMZTD7990F5WAGKKGW)
 

@@ -16,4 +16,9 @@
 - Lista
 - Tuplas
 - Conjuntos
-- Dicionários
+- Dicionários\
+
+## REFERÊNCIAS
+
+1. [Ambientes para desenvolvimento](ambientes_de_desenvolvimento.md)
+2. [Materiais de apoio](referencias.md)

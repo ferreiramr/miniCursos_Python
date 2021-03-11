@@ -24,4 +24,9 @@
  - [Introdução à Ciência da Computação com Python Parte 2](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2)
  - [Python Fundamentos para Análise de Dados - ebook gratuito](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
 
- ### PODCASTS
+ ## PODCASTS
+
+ - [Pizza de Dadosd](https://open.spotify.com/show/5k0Ei0MSg5BuiHshr43aSg)
+ - [Intervalo de Confiança](https://open.spotify.com/show/5eeU6uHaz7oUdZ6LiNh5tB)
+ - [Data Hacker](https://open.spotify.com/show/1oMIHOXsrLFENAeM743g93)
+ - [Data Science Academy](https://open.spotify.com/show/2yaqJ4H0jc11phvCA60wKn)

@@ -10,6 +10,6 @@ Criar, manipular e aplicar, por meio de uma linguagem de programação apropriad
 
 Revisão dos conceitos básicos de tipos abstratos de dados. Pilhas, filas, alocação dinâmica, recursividade, listas encadeadas, tabelas de espalhamento e árvores. Métodos de ordenação. Aplicações das estruturas de dados em problemas computacionais de Ciência de dados.
 
-1. [Ambientes para desenvolvimento](ambientes_de_desenvolvimento.md)
-2. [Referências](referencias.md)
-3. [Aula 01 - Revisão](aula_01.md)
+## AULAS
+
+1. [Aula 01 - Revisão](aula_01.md)

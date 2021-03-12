@@ -72,27 +72,27 @@ while not jogo_terminou:
  
  ### 2.2. ENTENDENDO E APRENDENDO COM O CÓDIGO 
 
- 1. Qual a finalidade do trecho de código ```from random import randint```
+ 1. Qual a finalidade do trecho de código `from random import randint`
 
- 1. Qual a finalidade das variáveis ```inicio_do_intervalo``` e ```fim_do_intervalo```.
+ 1. Qual a finalidade das variáveis `inicio_do_intervalo` e `fim_do_intervalo`.
 
- 1. Qual será o valor da variável ```numero_secreto``` no inico de cada rodada
+ 1. Qual será o valor da variável `numero_secreto` no inico de cada rodada
 
- 1. Qual a finalidade da variável ```jogo_terminou```, que tipo de dado ele armazena
+ 1. Qual a finalidade da variável `jogo_terminou`, que tipo de dado ele armazena
 
- 1. Qual a finalidade das variáveis: ```MENSAGEM_DE_INICIO_DO_JOGO```, ```MENSAGEM_DE_UM_CHUTE```, ```MENSAGEM_DE_CHUTE_CORRETO```, ```MENSAGEM_DE_CHUTE_ERRADO```, ```MENSAGEM_DE_CHUTE_ALTO``` e ```MENSAGEM_DE_CHUTE_BAIXO```. Por que elas estão em letras maiúsculas?
+ 1. Qual a finalidade das variáveis: `MENSAGEM_DE_INICIO_DO_JOGO`, `MENSAGEM_DE_UM_CHUTE`, `MENSAGEM_DE_CHUTE_CORRETO`, `MENSAGEM_DE_CHUTE_ERRADO`, `MENSAGEM_DE_CHUTE_ALTO` e `MENSAGEM_DE_CHUTE_BAIXO`. Por que elas estão em letras maiúsculas?
 
- 1. Que valor a variável ```chute``` armazena?
+ 1. Que valor a variável `chute` armazena?
 
- 1. O que é a estrutura ```pegar_o_chute```?
+ 1. O que é a estrutura `pegar_o_chute`?
 
- 1. O que faz o trecho de código ```pegar_o_chute(MENSAGEM_DE_UM_CHUTE)```
+ 1. O que faz o trecho de código `pegar_o_chute(MENSAGEM_DE_UM_CHUTE)`
 
- 1. Qual a finalidade das extruturs ```try``` e ```except```.
+ 1. Qual a finalidade das extruturs `try` e `except`.
 
- 1. Que tipo de dado armazena as variáveis ```acertou```, ```chutou_alto``` e ```chutou_baixo```?
+ 1. Que tipo de dado armazena as variáveis `acertou`, `chutou_alto` e `chutou_baixo`?
 
- 1. O que tem de errado com a variável ```chutou_baixo```?
+ 1. O que tem de errado com a variável `chutou_baixo`?
 
  1. Qual trecho de código matémm o jogo em execução?
 

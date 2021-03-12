@@ -6,7 +6,7 @@
 - [O Tutorial Python](https://docs.python.org/pt-br/3/tutorial/index.html)
 - [A Referência da Linguagem Python¶](https://docs.python.org/pt-br/3/reference/index.html)
 - [A Biblioteca Padrão do Python](https://docs.python.org/pt-br/3/library/index.html)
-
+f
 ## LIVROS ONLINE GRATUITOS
 
  - [Pense em Python - Versão interativa online e gratuita](https://panda.ime.usp.br/pensepy/static/pensepy/index.html)

@@ -12,4 +12,5 @@ Revisão dos conceitos básicos de tipos abstratos de dados. Pilhas, filas, aloc
 
 ## AULAS
 
-1. [Aula 01 - Revisão](aula_01.md)
+1. [Aula 00 - Revisão](aula_00.md)
+1. [Aula 01 - Coleções](aula_01.md)
